@@ -21,7 +21,7 @@
 With the [skills CLI](https://skills.sh):
 
 ```bash
-npx skills add RabbitDesigns22/in-the-loop
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/in-the-loop/tree/e1e86f0b65bf4b39e371994ecb62afce37477f72
 ```
 
 Or manually: copy `skills/in-the-loop/` into `~/.claude/skills/` for all your projects, or into `.claude/skills/` for one project.
@@ -42,7 +42,7 @@ At the start of every task and before reviewing, deploying or changing anything 
 
 **Que todos los chats estén al tanto.** Cuando varios chats trabajan para la misma persona, cada uno solo ve su conversación: uno sube una versión nueva y otro sigue revisando la vieja, uno cambia algo y otro lo regresa. `in-the-loop` les da un tablero en vivo compartido: cada chat lo lee antes de actuar y escribe una línea después de cualquier cambio que los demás deban saber (versión subida, ajuste cambiado, decisión, en qué está trabajando el usuario ahora). Saben lo que pasa sin meterse en el trabajo del otro.
 
-Instalar: `npx skills add RabbitDesigns22/in-the-loop`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/in-the-loop/tree/e1e86f0b65bf4b39e371994ecb62afce37477f72`
 
 ## More skills from the same setup
 
